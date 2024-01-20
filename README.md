@@ -17,3 +17,5 @@ heights to centimeters in a separate list using:
 
 
 Code File - ICP_2_Spring24.ipynb Document- ICP_2_Spring24.DOCX
+
+video Link: https://drive.google.com/file/d/1673ggBvEiH-w7edqd-pZykqHSiM2TMdF/view?usp=sharing
